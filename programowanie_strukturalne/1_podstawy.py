@@ -1,1 +1,2 @@
-print ("Anna")
+print ("anna")
+print(8)
