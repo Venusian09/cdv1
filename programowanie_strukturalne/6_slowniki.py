@@ -49,4 +49,4 @@ wykorzystaj w pętli for funkcję print do wyświetlenia danych
 for key, value in pracownik.items():
     print(f'{key}:{value}')
 
-print()
+print()-
